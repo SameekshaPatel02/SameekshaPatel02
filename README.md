@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameeksha Patel</h1>
-<h3 align="center">A passionate frontend developer from India, with a background in UI/UX design. As a B.Tech third-year student, I'm committed to creating visually appealing, user-friendly interfaces and exploring the latest web development trends. Always eager to learn and collaborate on innovative projects.</h3>
+<h3 align="center">A passionate frontend developer from India, with a background in UI/UX design. As a B.Tech final year student, I'm committed to creating visually appealing, user-friendly interfaces and exploring the latest web development trends. Always eager to learn and collaborate on innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameekshapatel02&label=Profile%20views&color=0e75b6&style=flat" alt="sameekshapatel02" /> </p>
 
